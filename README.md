@@ -31,4 +31,4 @@ def calculator():
     print("Result:", result)
 
 calculator()
-<img width="900" height="900" alt="pngwing com" src="https://github.com/user-attachments/assets/69118014-ccf8-4ff8-8e1d-f5fcbe1094d5" />
+<img width="284" height="177" alt="download (1)" src="https://github.com/user-attachments/assets/967c9dc6-8efc-4553-8dd4-aba5304a7252" />
